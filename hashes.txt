@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aquel verano que fuimos felices
+
+This log tracks the cryptographic history and versioning for the song **Aquel verano que fuimos felices** (aquel-verano-que-fuimos-felices).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T14:19:37.284894 | `v1` | `097ccc703ea5d12f4756b1f78f0eff4ed2b031e5535b93c6e831d63b422f1151` | `4238cee122608eea92e12487877cbf0aadf144b6a29f49f0d965b5be168713f0` | `2026-06-14_aquel-verano-que-fuimos-felices-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
