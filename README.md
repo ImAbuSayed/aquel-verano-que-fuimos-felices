@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquel-verano-que-fuimos-felices/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Aquel verano que fuimos felices](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquel-verano-que-fuimos-felices/) |
+| **Get License** | [Commercial Licensing for Aquel verano que fuimos felices](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquel-verano-que-fuimos-felices/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me miras y se para el tiempo, baby, no hay salida
+> Esa curva peligrosa me tiene perdiendo la vida
+> A las tres de la mañana buscando tu flow escondido
+> Vente conmigo, let's go, que la noche ya ha decidido
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
